@@ -17,7 +17,7 @@ else:
 author        = "Eli Maynard"
 description   = "Simple language for writing parsers"
 license       = "MIT"
-
+version       = "0.8.7"
 srcDir        = "src"
 
 # Dependencies
